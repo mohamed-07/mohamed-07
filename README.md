@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Hello Developers" />
-
 <h2>Hi there 👋, I'm Mohamed – Frontend Developer</h2>
 <p>HTML • CSS • TailwindCSS • JavaScript • TypeScript • React</p>
 
@@ -9,8 +7,7 @@
 
 ---
 
-### 🎧 Currently Vibing to:
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/)
+
 
 ![Views](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
