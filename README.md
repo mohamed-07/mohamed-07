@@ -42,11 +42,11 @@
 ### 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project1&theme=tokyonight"/>
+  <a href="https://github.com/mohamed-07/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-07&repo=project1&theme=tokyonight"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project2&theme=tokyonight"/>
+  <a href="https://github.com/mohamed-07/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-07&repo=project2&theme=tokyonight"/>
   </a>
 </p>
 
