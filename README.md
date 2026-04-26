@@ -1,75 +1,78 @@
-<h2 align="center">Hi there 👋, I'm Mohamed – Frontend Developer</h2>
+<h1 align="center">Hi 👋, I'm Mohamed</h1>
+<h3 align="center">Frontend Developer | React & TypeScript</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=React+%2B+TypeScript+Developer;Building+clean+and+fast+interfaces;Always+learning+new+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=React+%2B+TypeScript+Developer;Building+modern+UI+%26+UX;Future+Fullstack+Engineer" />
   </a>
 </p>
 
-###
+---
+
+### 🧠 About Me
+
+- 🔥 متخصص في **React + TypeScript**
+- 🚀 أعمل على تطوير واجهات سريعة وقابلة للتوسّع
+- 📚 أتعلم حالياً: **Node.js, Express, MongoDB**
+- 🎯 هدفي: Fullstack Developer
+- ⚡ مهتم بـ Performance + Clean Code + Accessibility
+
+---
+
+### 🛠 Tech Stack
 
 <p align="center">
-  🔥 Frontend developer specialized in <strong>React + TypeScript</strong><br>
-  📚 Currently learning <strong>Node.js, Express & MongoDB</strong><br>
-  🎯 Goal: Become a <strong>Fullstack Developer</strong><br>
-  🎨 Passionate about clean UI, performance & accessibility
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
-###
+---
 
-<h2 align="center">🛠 Tech Stack</h2>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="Vite" />
-</div>
-
-###
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
-</div>
-
-###
-
-<h2 align="center">🤝 Connect With Me</h2>
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammed-rahmani-bouzina-b88b63207/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="35" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://x.com/@mohamed_RB07" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="35" alt="Twitter / X" /></a>&nbsp;&nbsp;
-  <a href="https://t.me/RBM007" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="35" alt="Telegram" /></a>&nbsp;&nbsp;
-  <a href="mailto:mrahmanibouzina07@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="35" alt="Gmail" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180"/>
 </p>
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="35" alt="Telegram" />
-  <a href="mailto:mrahmanibouzina07@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="35" alt="Gmail" />
+
+---
+
+### 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project1&theme=tokyonight"/>
   </a>
-</div>
+  <a href="https://github.com/YOUR_USERNAME/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project2&theme=tokyonight"/>
+  </a>
+</p>
 
-###
+---
 
-<div align="center">
-  <img height="180" src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif?raw=true" alt="Coding animation" />
-</div>
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammed-rahmani-bouzina-b88b63207/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://x.com/mohamed_RB07">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://t.me/RBM007">
+    <img src="https://skillicons.dev/icons?i=telegram" />
+  </a>
+  <a href="mailto:mrahmanibouzina07@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" width="250"/>
+</p>
