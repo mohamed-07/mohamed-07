@@ -11,12 +11,11 @@
 
 ### 🧠 About Me
 
-- 🔥 متخصص في **React + TypeScript**
-- 🚀 أعمل على تطوير واجهات سريعة وقابلة للتوسّع
-- 📚 أتعلم حالياً: **Node.js, Express, MongoDB**
-- 🎯 هدفي: Fullstack Developer
-- ⚡ مهتم بـ Performance + Clean Code + Accessibility
-
+- 🔥 Specialized in **React + TypeScript**
+- 🚀 Building fast, scalable, and modern user interfaces
+- 📚 Currently learning: **Node.js, Express, MongoDB**
+- 🎯 Goal: Become a Fullstack Developer
+- ⚡ Passionate about Performance, Clean Code, and Accessibility
 ---
 
 ### 🛠 Tech Stack
