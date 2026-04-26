@@ -56,7 +56,7 @@
 
 <h2 align="center">🤝 Connect With Me</h2>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap;">
   <a href="https://www.linkedin.com/in/mohammed-rahmani-bouzina-b88b63207/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="35" alt="LinkedIn" />
   </a>
