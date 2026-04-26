@@ -56,16 +56,13 @@
 
 <h2 align="center">🤝 Connect With Me</h2>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap;">
-  <a href="https://www.linkedin.com/in/mohammed-rahmani-bouzina-b88b63207/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="35" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/@mohamed_RB07" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="35" alt="Twitter / X" />
-  </a>
-  <a href="https://t.me/RBM007" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammed-rahmani-bouzina-b88b63207/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="35" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://x.com/@mohamed_RB07" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="35" alt="Twitter / X" /></a>&nbsp;&nbsp;
+  <a href="https://t.me/RBM007" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="35" alt="Telegram" /></a>&nbsp;&nbsp;
+  <a href="mailto:mrahmanibouzina07@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="35" alt="Gmail" /></a>
+</p>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="35" alt="Telegram" />
-  </a>
   <a href="mailto:mrahmanibouzina07@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="35" alt="Gmail" />
   </a>
